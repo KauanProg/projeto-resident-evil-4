@@ -1,4 +1,2 @@
 # Projeto Resident Evil 4
-Este projeto é uma simulação de uma página do jogo Resident Evil 4, desenvolvido pela Capcom.
-
-![](https://media.licdn.com/dms/image/D4D22AQGhvDm_1_cWaw/feedshare-shrink_800/0/1707402747708?e=1712793600&v=beta&t=efESz_C-esEWX-mbhfW_Rhtms9M-Umwq7YSf8zUg9BM)
+Para baixar e visualizar seu projeto, acesse o repositório no GitHub e clique no botão "Code" no canto superior direito. Em seguida, selecione a opção "Download ZIP" para baixar o arquivo para o seu computador. Após o download, localize o arquivo ZIP na pasta de downloads (ou onde o navegador salva os arquivos) e clique com o botão direito sobre ele, selecionando "Extrair" ou "Extrair Tudo", dependendo do sistema operacional. Isso criará uma pasta com os arquivos do seu projeto. Dentro da pasta extraída, procure o arquivo "index.html" (ou o arquivo principal do seu projeto) e clique duas vezes sobre ele para abrir o projeto no seu navegador.
