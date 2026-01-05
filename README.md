@@ -1,2 +1,44 @@
-# Projeto Resident Evil 4
-Para baixar e visualizar seu projeto, acesse o repositório no GitHub e clique no botão "Code" no canto superior direito. Em seguida, selecione a opção "Download ZIP" para baixar o arquivo para o seu computador. Após o download, localize o arquivo ZIP na pasta de downloads (ou onde o navegador salva os arquivos) e clique com o botão direito sobre ele, selecionando "Extrair" ou "Extrair Tudo", dependendo do sistema operacional. Isso criará uma pasta com os arquivos do seu projeto. Dentro da pasta extraída, procure o arquivo "index.html" (ou o arquivo principal do seu projeto) e clique duas vezes sobre ele para abrir o projeto no seu navegador.
+# 🎮 Resident Evil 4 — Projeto Web
+
+Projeto web inspirado no jogo **Resident Evil 4**, desenvolvido com foco em **layout, responsividade e interações visuais**, utilizando **HTML, CSS e JavaScript puro**.
+
+Este projeto faz parte do meu portfólio pessoal.
+
+---
+
+## 🧠 Objetivo do Projeto
+
+- Praticar HTML semântico
+- Trabalhar layout e responsividade com CSS
+- Aplicar JavaScript puro para interações
+- Criar uma interface temática inspirada em games
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)
+
+---
+
+## ▶️ Como Rodar o Projeto
+
+Este projeto não utiliza frameworks ou dependências, portanto é muito simples de executar.
+
+### ✅ Opção 1 — Abrir direto no navegador
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/resident-evil-4.git
+```
+
+Entre na pasta do projeto:
+
+```bash
+cd resident-evil-4
+```
+
+Abra o arquivo index.html no navegador
